@@ -1,0 +1,21 @@
+.redesSocialesFoot{
+    font-size: 1.5rem;
+}
+
+.redesSocialesFoot a{
+    text-decoration: none;
+    color: white;
+}
+
+.MedioFooter ul{
+    list-style-type: none;
+}
+
+.MedioFooter ul a{
+    text-decoration: none;
+    color: white;
+}
+
+.qrfoot img{
+    width: 50%
+}
